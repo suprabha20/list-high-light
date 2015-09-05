@@ -1,0 +1,1 @@
+This page contains sample codes of Android projects which are at my blog.
